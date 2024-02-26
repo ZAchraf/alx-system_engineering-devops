@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# 10 timess "Best School" .
+
+for (( i=0; i<=9; i++)) 
+do
+  echo "Best School"
+done
